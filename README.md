@@ -25,5 +25,5 @@ For support, Join our [Discord Server](https://discord.gg/h24pNkrGBk).
 
 ## Credits
 
-Credits Goes to **Im Prince** & **Luna**
+Credits Goes to **[! Friday](https://github.com/friday2su)** & **[Ramkrishna](https://github.com/0Ramkrishna)**
 
